@@ -1,0 +1,11 @@
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\obj\Debug\netcoreapp3.1\abtraction.csprojAssemblyReference.cache
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\obj\Debug\netcoreapp3.1\abtraction.AssemblyInfoInputs.cache
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\obj\Debug\netcoreapp3.1\abtraction.AssemblyInfo.cs
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\bin\Debug\netcoreapp3.1\abtraction.exe
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\bin\Debug\netcoreapp3.1\abtraction.deps.json
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\bin\Debug\netcoreapp3.1\abtraction.runtimeconfig.json
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\bin\Debug\netcoreapp3.1\abtraction.runtimeconfig.dev.json
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\bin\Debug\netcoreapp3.1\abtraction.dll
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\bin\Debug\netcoreapp3.1\abtraction.pdb
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\obj\Debug\netcoreapp3.1\abtraction.dll
+C:\Users\Asvilla\Desktop\New folder\abtraction\abtraction\obj\Debug\netcoreapp3.1\abtraction.pdb
